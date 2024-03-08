@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.innerCard {
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+}
